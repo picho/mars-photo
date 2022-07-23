@@ -17,13 +17,14 @@ When the app is running, if everything is ok, you should see the following messa
 ```
 Compiled successfully!
 
-You can now view price-exchange-front in the browser.
+You can now view mars-photo in the browser.
 
   Local:            http://localhost:3000
-  On Your Network:  http://192.168.1.35:3000
+  On Your Network:  http://192.168.178.36:3000
 
 Note that the development build is not optimized.
 To create a production build, use npm run build.
 
 webpack compiled successfully
+
 ```
